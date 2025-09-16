@@ -1,7 +1,3 @@
-Great 👍 Let’s create a polished **README.md** for your GitHub repo. This will make it look professional and ready for sharing.
-
----
-
 ### 📄 `README.md`
 
 ````markdown
